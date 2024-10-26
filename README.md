@@ -1,4 +1,5 @@
-# Vitaj na mojom GitHube!
-Voám sa Jakub Zápražný a toto je môj GitHub.🙂😃
-Sem ukladám moje programy, Ktoré vetšinov robím v Batchi, Pythone, html a css atď...
-Všetky moje programy ukladám do úložiska Code odkial si ich môžte všetci stiahnuť, sú bez licencie.🙂😃
+# Welcome on my GitHub!🤖
+My name is Jakub Zápražný and i come from Slovakia.  
+I will upload my programs to the repository **Code**.💾  
+I program, for example, in **Batch**, **HTML**, **CSS**, **Python** and **JavaScript**.🧑‍💻  
+Some applications can be created using electron.⚡
