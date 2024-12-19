@@ -10,4 +10,4 @@
 I will upload my programs primary to the repository Code. 💾<br>
 
 <p align="center">
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Jakub-bite&show_icons=true&theme=github&&hide_border=true"> 
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Jakub-bites&show_icons=true&theme=github&&hide_border=true"> 
