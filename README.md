@@ -6,8 +6,5 @@
 
 <h2 align="center">⚡ MY PROFILE ⚡</h2>
 
-<p>My name is Jakub Zápražný and i come from Slovakia.<br>
-I will upload my programs primary to the repository Code. 💾<br>
-
-<p align="center">
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Jakub-bites&show_icons=true&theme=github&&hide_border=true"> 
+<p>Hi i'am Backend developer.<br>
+I programming for a hobby.<p>
